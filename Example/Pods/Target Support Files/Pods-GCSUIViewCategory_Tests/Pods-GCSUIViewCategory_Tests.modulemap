@@ -1,0 +1,6 @@
+framework module Pods_GCSUIViewCategory_Tests {
+  umbrella header "Pods-GCSUIViewCategory_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

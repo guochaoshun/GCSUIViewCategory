@@ -1,0 +1,6 @@
+framework module GCSUIViewCategory {
+  umbrella header "GCSUIViewCategory-umbrella.h"
+
+  export *
+  module * { export * }
+}

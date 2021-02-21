@@ -7,6 +7,7 @@
 //
 
 #import "GCSViewController.h"
+#import <UIView+Category.h>
 
 @interface GCSViewController ()
 
@@ -14,16 +15,11 @@
 
 @implementation GCSViewController
 
-- (void)viewDidLoad
-{
+- (void)viewDidLoad {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
-}
-
-- (void)didReceiveMemoryWarning
-{
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+    
+    UIView * red = [UIView new];
+    red.top = 100;
 }
 
 @end

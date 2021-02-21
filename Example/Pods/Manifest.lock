@@ -1,0 +1,16 @@
+PODS:
+  - GCSUIViewCategory (0.1.0)
+
+DEPENDENCIES:
+  - GCSUIViewCategory (from `../`)
+
+EXTERNAL SOURCES:
+  GCSUIViewCategory:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GCSUIViewCategory: e83cb858fa1deecc39cd7a66edce95bdb6493ef0
+
+PODFILE CHECKSUM: 9dd337c1cd4867baeaf0ee3fa42be5447ff9b9c7
+
+COCOAPODS: 1.10.0

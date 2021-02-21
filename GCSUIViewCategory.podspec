@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'GCSUIViewCategory'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of GCSUIViewCategory.'
+  s.summary          = 'GCSUIViewCategory.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: Add long description of the pod here.GCSUIViewCategory
                        DESC
 
-  s.homepage         = 'https://github.com/liyazhu/GCSUIViewCategory'
+  s.homepage         = 'https://github.com/guochaoshun/GCSUIViewCategory'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'liyazhu' => '15210134184@163.com' }
-  s.source           = { :git => 'https://github.com/liyazhu/GCSUIViewCategory.git', :tag => s.version.to_s }
+  s.author           = { 'guochaoshun' => '657257897@qq.com' }
+  s.source           = { :git => 'https://github.com/guochaoshun/GCSUIViewCategory.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

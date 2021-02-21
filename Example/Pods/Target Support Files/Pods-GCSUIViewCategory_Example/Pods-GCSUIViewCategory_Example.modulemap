@@ -1,0 +1,6 @@
+framework module Pods_GCSUIViewCategory_Example {
+  umbrella header "Pods-GCSUIViewCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
