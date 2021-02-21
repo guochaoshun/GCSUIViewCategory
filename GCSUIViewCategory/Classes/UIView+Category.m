@@ -10,7 +10,7 @@
 @implementation UIView (Category)
 
 - (void)setTop:(CGFloat)top {
-    NSLog(@"%lf , %s",top,__func__);
+    NSLog(@"%lf ,  %s",top,__func__);
 }
 
 - (CGFloat)top {
